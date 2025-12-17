@@ -20,3 +20,11 @@ This repository contains datasets and notebooks used in a master’s thesis on E
 
 - 2000–2025 multi FX dataset: `EURNOK/MultiFXData.csv`  
   https://github.com/bredeespelid/Data_MasterOppgave/blob/main/EURNOK/MultiFXData.csv
+
+## Additional assessment notebooks
+
+- FX hedging assessment: `Assesment/FX_Hedging.ipynb`  
+  https://github.com/bredeespelid/Data_MasterOppgave/blob/main/Assesment/FX_Hedging.ipynb
+
+- Robustness (nonlinear) assessment: `Assesment/RobustnessNonlinear.ipynb`  
+  https://github.com/bredeespelid/Data_MasterOppgave/blob/main/Assesment/RobustnessNonlinear.ipynb
